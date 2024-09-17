@@ -28,14 +28,11 @@ The main objectives of this project were to:
 3. Evaluate Customer Preferences: To evaluate customer preferences and ratings for different items.
 4. Facilitate Informed Decision-Making: To provide stakeholders with actionable insights through interactive visualizations.
 
-## Key Insights: 
-1. *Total Sales:* The dashboard shows total sales of $1.20 million, offering a snapshot of overall revenue from all outlets.
-3. *Average Sales:* On average, each outlet achieves $141 in sales, reflecting the performance efficiency across locations.
-4. *Number of Items Sold:* A total of 8,523 items were sold, indicating transaction volume and customer engagement.
-5. *Average Rating:* Customers have rated products an average of 3.9 stars, highlighting overall satisfaction.
+## Actionable Insights and Recommendations: 
+1. *Diversify Producr Range for Health Enthusiasts*: Expand the range of low-fat products to meet growing demand from health-conscious customers.
+3. *Optimize Outlet Locations:* Focus on expanding in Tier 3 locations with higher sales performance..
+4. *Enhance Product Assortment:* Continue promoting top-performing categories like fruits and vegetables, Dairy Products while exploring new product lines.
+5. *Improve Customer Experience:* Invest in customer loyalty programs and personalized recommendations to enhance satisfaction.
 6. *Outlet Establishment Year:* The sales trend graph reveals significant peaks, with the highest sales of $205K recorded in 2018.
-7. *Outlet Size Analysis:* Sales distribution by outlet size shows medium outlets at $249K and large outlets at $507.9K.
-8. *Outlet Location Analysis*: Sales are highest in Tier 3 locations ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
-9. *Item Type Analysis:* Sales data highlights top categories such as fruits and vegetables, snacks, and household items, indicating popular product lines.
-10. *Fat Content Analysis:* Sales are analyzed by fat content, differentiating between low-fat and regular items, which can aid in marketing strategies.
-11. *Outlet Type Analysis:* Comparison of different outlet types (e.g., Supermarkets, Grocery Stores) based on various metrics helps assess performance across store formats.
+7. *Capitalize on Medium-Sized Success:* It is also worth noting that our medium-sized outlets have outperformed the larger ones, This is an interesting data point to consider as we plan our future expansion
+
