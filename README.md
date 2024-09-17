@@ -29,7 +29,7 @@ The main objectives of this project were to:
 4. Facilitate Informed Decision-Making: To provide stakeholders with actionable insights through interactive visualizations.
 
 ## Actionable Insights and Recommendations: 
-1. *Diversify Producr Range for Health Enthusiasts*: Expand the range of low-fat products to meet growing demand from health-conscious customers.
+1. *Diversify Product Range for Health Enthusiasts*: Expand the range of low-fat products to meet growing demand from health-conscious customers.
 3. *Optimize Outlet Locations:* Focus on expanding in Tier 3 locations with higher sales performance..
 4. *Enhance Product Assortment:* Continue promoting top-performing categories like fruits and vegetables, Dairy Products while exploring new product lines.
 5. *Improve Customer Experience:* Invest in customer loyalty programs and personalized recommendations to enhance satisfaction.
