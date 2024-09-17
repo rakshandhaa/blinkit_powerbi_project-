@@ -1,4 +1,4 @@
-# blinkit_powerbi_project
+# blinkit Powerbi Project
 
 ## Project Overview
 The Blinkit Project aims to provide a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. 
