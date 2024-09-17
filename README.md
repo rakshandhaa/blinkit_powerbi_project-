@@ -33,6 +33,5 @@ The main objectives of this project were to:
 3. *Optimize Outlet Locations:* Focus on expanding in Tier 3 locations with higher sales performance..
 4. *Enhance Product Assortment:* Continue promoting top-performing categories like fruits and vegetables, Dairy Products while exploring new product lines.
 5. *Improve Customer Experience:* Invest in customer loyalty programs and personalized recommendations to enhance satisfaction.
-6. *Outlet Establishment Year:* The sales trend graph reveals significant peaks, with the highest sales of $205K recorded in 2018.
-7. *Capitalize on Medium-Sized Success:* It is also worth noting that our medium-sized outlets have outperformed the larger ones, This is an interesting data point to consider as we plan our future expansion
+6. *Capitalize on Medium-Sized Success:* It is also worth noting that our medium-sized outlets have outperformed the larger ones, This is an interesting data point to consider as we plan our future expansion
 
